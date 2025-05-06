@@ -1,0 +1,3 @@
+Types,Model,Path
+
+# Xoá dòng này và đuôi tệp .txt
