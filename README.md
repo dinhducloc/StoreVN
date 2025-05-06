@@ -17,7 +17,7 @@ s
 Chuẩn bị file CSV [ ggdrive.csv ] với các cột và Đặt các file CSV vào cùng thư mục với script:
    - Cột B: Tên file (A, B [Tên file], C...)
    - Cột C: Link Google Drive (A, B, C [Link Google Drive])
-   - Đổi nội dung từ sau chữ /edit= thành htmlview rồi Ctrl + S để lưu
+   - Đổi nội dung từ sau chữ /edit= thành htmlview rồi Ctrl + S để lưu (Nếu cần tải theo tệp .htm và .html)
 ## Cách Sử Dụng
 1. Chạy script:
 ```bash
